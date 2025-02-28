@@ -11,9 +11,17 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ### Adding an Image
-
 ![Image of Torii](https://github.com/user-attachments/assets/a7a94b5e-1ba5-4c35-9bef-a979db73a197)
 
+### Adding a block of code
 ``` python3
 print ("Hello World")
 ```
+
+### Adding a task list
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
+
